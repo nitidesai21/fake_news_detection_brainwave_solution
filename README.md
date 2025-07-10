@@ -1,4 +1,4 @@
-# fake_news_detection_brainwave_solution
+# Fake News Detection Using Machine Learning And NLP
 Welcome to the Fake News Detection project!
 This repository contains a machine learning pipeline built to detect whether a news article is real or fake based on its textual content. In an era of overwhelming information, this tool helps combat misinformation by classifying news using NLP techniques and ML algorithms.
 🚀 Project Overview
